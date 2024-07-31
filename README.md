@@ -22,7 +22,8 @@
 
 ### Demo Screeshots
 
-blob:https://github.com/75d4357a-a0ba-4234-9486-c147b80e8959
+![desktop](https://github.com/user-attachments/assets/2e3a8f2e-8bde-4cab-91ee-5b04a5f7ab1e)
+
 
 ### Prerequisites
 
