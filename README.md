@@ -11,7 +11,7 @@
 
   <h2 align="center">eduweb - Education Website</h2>
 
-  EduWeb is a fully responsive a user-friendly eLearning platform that offers various skill development courses and learning resourcees. <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  EduWeb is a fully responsive a user-friendly eLearning platform that offers various skill development courses and learning resourcees. <br />Responsive for all devices, build using HTML, CSS, and JavaScript, reactJs.
 
   <a href="https://codewithsadee.github.io/eduweb/"><strong>➥ Live Demo</strong></a>
 
