@@ -22,7 +22,7 @@
 
 ### Demo Screeshots
 
-"C:\Users\pawan\Downloads\desktop (1).png"
+blob:https://github.com/75d4357a-a0ba-4234-9486-c147b80e8959
 
 ### Prerequisites
 
@@ -45,11 +45,3 @@ Windows:
 ```bash
 git clone https://github.com/codewithsadee/eduweb.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
